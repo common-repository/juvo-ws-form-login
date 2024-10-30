@@ -1,0 +1,11 @@
+{
+  "env": {
+    "tests": {
+      "plugins": [
+        ".",
+        "./tests/setup/Setup.php",
+        "./tests/setup/plugins/ws-form-pro"
+      ]
+    }
+  }
+}
